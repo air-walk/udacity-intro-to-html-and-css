@@ -1,0 +1,28 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+* {
+  color: #747704;
+}
+
+.text-light {
+ color: #BCBBBB;
+}
+
+.text-thin {
+  font-weight: 300;
+}
+
+.height-broad {
+  border-width: 5px;
+  border-color: #BCBBBB;
+}
+
+.buffer-top {
+  margin-top: 20px;
+}
+
+.buffer-left {
+  margin-left: 35px;
+}
