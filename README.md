@@ -6,4 +6,4 @@ This repo contains the **Portfolio Website** project inside the `project/` direc
 ```bash
 git clone https://github.com/air-walk/udacity-intro-to-html-and-css.git
 ```
-* Open your browser and open file `project/main.html`
+* Open file `project/main.html` in your browser.
