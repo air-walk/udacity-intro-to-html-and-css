@@ -7,3 +7,5 @@ This repo contains the **Portfolio Website** project inside the `project/` direc
 git clone https://github.com/air-walk/udacity-intro-to-html-and-css.git
 ```
 * Open file `udacity-intro-to-html-and-css/project/main.html` in your browser.
+
+Please note that the design mockup file is also present under `udacity-intro-to-html-and-css/project/design-mockup-portfolio.pdf` for reference.
